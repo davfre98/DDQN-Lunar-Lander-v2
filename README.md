@@ -8,8 +8,8 @@ A continuacion se muestra una grafica con los resultados obtenidos hasta el mome
 
 Integrantes:
 
-Joan Conza  [@jncnza](https://github.com/jncnza/)
-David Freidenson
-Ramfis Centeno  [@RamfisCenteno](https://github.com/RamfisCenteno/)
+* Joan Conza  [@jncnza](https://github.com/jncnza/)
+* David Freidenson
+* Ramfis Centeno  [@RamfisCenteno](https://github.com/RamfisCenteno/)
 
 ![img1](img1.png)
