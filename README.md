@@ -7,4 +7,4 @@ En el notebook DDQN Llander se muestra el codigo utlizado para los experimentos 
 A continuacion se muestra una grafica con los resultados obtenidos hasta el momento.
 
 
-![img1](DDQN-Lunar-Lander-v2/img1.png)
+![img1](img1.png)
