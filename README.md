@@ -12,4 +12,4 @@ Integrantes:
 * David Freidenson
 * Ramfis Centeno  [@RamfisCenteno](https://github.com/RamfisCenteno/)
 
-![img1](img1.png)
+![img1](img1.png
